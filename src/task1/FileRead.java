@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class FileRead {
     public static void main(String[] args) {
-        analyzeFile("src/task1/access.log");
+        analyzeFile("src/resources/access.log");
     }
 
     public static void analyzeFile(String filePath) {
